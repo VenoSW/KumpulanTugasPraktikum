@@ -30,7 +30,7 @@ Tata cara pengumpulan
 ![2](https://user-images.githubusercontent.com/22215113/229117795-97824046-c7c3-47fc-ad9a-7e0ed504ca2c.png)
 
 ## 1. Tugas Modul 1 (Minggu Pertama)
-Buatlah program untuk menghitung jumlah karakakter dari nama dan nim.
+Buatlah program untuk menghitung jumlah karakter dari Nama dan Nim.
 ```
 Ketentuan :
 1. Menghitung karakter tanpa spasi
