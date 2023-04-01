@@ -28,15 +28,3 @@ Tata cara pengumpulan
 3. Isi NIM, Nama, dan Link Google Drive yang sudah di upload, kemudian klik submit
 ```
 ![2](https://user-images.githubusercontent.com/22215113/229117795-97824046-c7c3-47fc-ad9a-7e0ed504ca2c.png)
-
-## 1. Tugas Modul 1 (Minggu Pertama)
-Buatlah program untuk menghitung jumlah karakter dari Nama dan Nim.
-```
-Ketentuan :
-1. Menghitung karakter tanpa spasi
-2. Tanpa memanggil fungsi len
-3. Membuat fungsi (def)
-4. Menggunakan perulangan dan if
-```
-### Contoh Output:
-![image](https://user-images.githubusercontent.com/22215113/222180884-8938d647-9142-4be8-b714-410f7123e24b.png)
