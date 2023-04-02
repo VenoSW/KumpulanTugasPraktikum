@@ -28,3 +28,6 @@ Tata cara pengumpulan
 3. Isi NIM, Nama, dan Link Google Drive yang sudah di upload, kemudian klik submit
 ```
 ![2](https://user-images.githubusercontent.com/22215113/229117795-97824046-c7c3-47fc-ad9a-7e0ed504ca2c.png)
+
+# Tugas Modul 1
+BUATLAH SEBUAH FUNGSI DENGAN BAHASA PEMROGARAMAN PYTHON UNTUK MENAMPILKAN BANYAKNYA HURUF VOKAL (A,I,U,E,O) DALAM NAMA MASING-MASING
